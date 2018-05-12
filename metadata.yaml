@@ -8,7 +8,7 @@ contributor:
     - Sarmiento, Félix Rubén García
     - Dario, Ruben
     - Sarmiento, Felix Ruben Garcia
-    birthdate: &id001 1867
+    birthdate: 1867
     deathdate: 1916
     gutenberg_agent_id: '31590'
     url: http://www.gutenberg.org/2009/agents/31590
@@ -19,7 +19,7 @@ contributor:
     gutenberg_agent_id: '31591'
     url: http://www.gutenberg.org/2009/agents/31591
   - agent_name: Torres, Carlos Arturo
-    birthdate: *id001
+    birthdate: 1867
     deathdate: 1911
     gutenberg_agent_id: '31592'
     url: http://www.gutenberg.org/2009/agents/31592
@@ -41,6 +41,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25807#Poemas
 gutenberg_issued: '2008-06-16'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,56 @@
+_repo: Poemas_25807
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Darío, Rubén
+    aliases:
+    - García Sarmiento, Félix Rubén
+    - Sarmiento, Félix Rubén García
+    - Dario, Ruben
+    - Sarmiento, Felix Ruben Garcia
+    birthdate: &id001 1867
+    deathdate: 1916
+    gutenberg_agent_id: '31590'
+    url: http://www.gutenberg.org/2009/agents/31590
+    wikipedia: http://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo
+  translators:
+  - agent_name: Lasplaces, Alberto
+    birthdate: 1887
+    gutenberg_agent_id: '31591'
+    url: http://www.gutenberg.org/2009/agents/31591
+  - agent_name: Torres, Carlos Arturo
+    birthdate: *id001
+    deathdate: 1911
+    gutenberg_agent_id: '31592'
+    url: http://www.gutenberg.org/2009/agents/31592
+  - agent_name: Pérez Bonalde, Juan Antonio
+    birthdate: 1846
+    deathdate: 1892
+    gutenberg_agent_id: '39476'
+    url: http://www.gutenberg.org/2009/agents/39476
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_issued: '2008-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25807'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- Translations into Spanish'
+title: Poemas
+url: http://www.gutenberg.org/ebooks/25807
